@@ -1,25 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 2,
       "nombre": "Karen",
-      "telefono": 138198313,
+      "empresa": "Codigo Con Juan",
       "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "138198313",
+      "notas": "Karen Actualizada",
+      "id": 2
     },
     {
       "id": 4,
@@ -29,19 +16,20 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "David",
+      "nombre": "David Rodriguez",
       "empresa": "DevDev Badillo",
       "email": "devdevbadillo@gmail.com",
       "telefono": "5542168513",
       "notas": "Soy nuevo en esto",
       "id": 6
+    },
+    {
+      "nombre": "Josue Navarro",
+      "empresa": "E-commerce JoseAbarrotes",
+      "email": "drodriguezb2101p@gmail.com",
+      "telefono": "5616441271",
+      "notas": "Un E-commerce para el cliente Bimbo",
+      "id": 7
     }
   ]
 }
