@@ -11,8 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-crm-react - Acceso directo.lnk
-Disco local (C) - Acceso directo.lnk
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
